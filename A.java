@@ -1,0 +1,1 @@
+Par exemple, pour une Mini App Flutter Web, ajoutez les fichiers générés par flutter build web.
